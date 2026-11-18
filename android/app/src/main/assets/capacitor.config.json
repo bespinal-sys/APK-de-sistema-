@@ -1,0 +1,8 @@
+{
+	"appId": "com.inspeccion.app",
+	"appName": "Inspección",
+	"webDir": "dist",
+	"android": {
+		"allowMixedContent": false
+	}
+}
